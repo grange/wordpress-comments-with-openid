@@ -31,14 +31,20 @@ function comments_with_openid() {
 		*/
 		'myOpenId' => array( 'url'=> 'http://USERNAME.myopenid.com/', 'start'=> 7, 'end'=> 8, 'sprite'=> 3 ),
 		'Flickr' => array( 'url'=> 'http://flickr.com/USERNAME/', 'start'=> 18, 'end'=> 8, 'sprite'=> 4  ),
+		/*
 		'claimId' => array( 'url'=> 'http://claimid.com/USERNAME', 'start'=> 19, 'end'=> 8, 'sprite'=> 5  ),
+		*/
 		'Blogger' => array( 'url'=> 'http://USERNAME.blogspot.com', 'start'=> 7, 'end'=> 8, 'sprite'=> 6  ),
 		'Wordpress' => array( 'url'=> 'http://USERNAME.wordpress.com', 'start'=> 7, 'end'=> 8, 'sprite'=> 7  ),
+		/*
 		'OpenID' => array( 'url'=> '', 'start'=> 0, 'end'=> 0, 'sprite'=> 8  ),
+		*/
 		'Yahoo' => array( 'url'=> 'http://www.yahoo.com', 'start'=> 0, 'end'=> 0, 'sprite'=> 9  ),
+		/*
 		'Technorati' => array( 'url'=> 'http://technorati.com/people/technorati/USERNAME/', 'start'=> 40, 'end'=> 8, 'sprite'=> 10 ),
 		'Vidoop' => array( 'url'=> 'http://USERNAME.myvidoop.com/', 'start'=> 7, 'end'=> 8, 'sprite'=> 11 ),
 		'Verisign' => array( 'url'=> 'http://USERNAME.pip.verisignlabs.com/', 'start'=> 7, 'end'=> 8, 'sprite'=> 12 ),
+		 */
 		'AOL' => array( 'url'=> 'http://openid.aol.com/USERNAME', 'start'=> 22, 'end'=> 8 ,'sprite'=> 13)
 	);
 		
