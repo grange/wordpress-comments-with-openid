@@ -25,7 +25,7 @@ function comments_with_openid() {
 	array (
 		'Yandex' => array( 'url'=> 'http://openid.yandex.ru/USERNAME', 'start'=> 24, 'end'=> 8, 'sprite'=> 0 ),
 		'Mail.ru' => array( 'url'=> 'http://USERNAME.id.mail.ru', 'start'=> 7, 'end'=> 8, 'sprite'=> 14 ),
-		'Google' => array( 'url'=> 'http://www.google.com/profiles/USERNAME', 'start'=> 31, 'end'=> 37, 'sprite'=> 1 ),
+		'Google' => array( 'url'=> 'https://www.google.com/accounts/o8/id', 'start'=> 0, 'end'=> 0, 'sprite'=> 1 ),
 		/* LiveJournal OpenID provider is currently broken
 		'LiveJournal' => array( 'url'=> 'http://USERNAME.livejournal.com', 'start'=> 7, 'end'=> 8, 'sprite'=> 2 ),
 		*/
